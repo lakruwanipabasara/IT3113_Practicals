@@ -1,3 +1,5 @@
+%Single objects
+
 food(pizza).
 food(dog).
 bird(parrot).
