@@ -13,3 +13,4 @@ male(kamal).
 student(john).
 shape(circle).
 vehicle(bus).
+
